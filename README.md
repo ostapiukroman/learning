@@ -3,7 +3,7 @@
 ## How to start
 
 ```
-git@github.com:ostapiukroman/learning.git
+git clone git@github.com:ostapiukroman/learning.git
 cd learning
 git checkout develop
 npm install
